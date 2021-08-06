@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionFuncPredApp", "ActionFuncPredApp.csproj", "{359A1938-A0D7-4669-A1CA-AEB3FA0816EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359A1938-A0D7-4669-A1CA-AEB3FA0816EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359A1938-A0D7-4669-A1CA-AEB3FA0816EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359A1938-A0D7-4669-A1CA-AEB3FA0816EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359A1938-A0D7-4669-A1CA-AEB3FA0816EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ABAEB1F-80BE-429A-9E3F-D9A869CDFDB5}
+	EndGlobalSection
+EndGlobal

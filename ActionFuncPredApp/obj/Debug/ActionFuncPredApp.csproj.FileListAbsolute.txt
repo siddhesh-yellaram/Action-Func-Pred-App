@@ -1,0 +1,7 @@
+D:\test\.NET\ActionFuncPredApp\bin\Debug\ActionFuncPredApp.exe.config
+D:\test\.NET\ActionFuncPredApp\bin\Debug\ActionFuncPredApp.exe
+D:\test\.NET\ActionFuncPredApp\bin\Debug\ActionFuncPredApp.pdb
+D:\test\.NET\ActionFuncPredApp\obj\Debug\ActionFuncPredApp.csproj.AssemblyReference.cache
+D:\test\.NET\ActionFuncPredApp\obj\Debug\ActionFuncPredApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\ActionFuncPredApp\obj\Debug\ActionFuncPredApp.exe
+D:\test\.NET\ActionFuncPredApp\obj\Debug\ActionFuncPredApp.pdb
